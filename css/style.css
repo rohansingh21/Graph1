@@ -1,0 +1,22 @@
+body {
+  background-color: #EAF6F6;
+}
+hr{
+border-style: none;
+border-top-style: dotted;
+width: 5%;
+border-color: #d72631;
+border-width: 5px;
+}
+h1{
+  color: #d72631;
+
+}
+.mountain{
+  border-style:dotted;
+}
+#heading:hover{
+  color: black;
+  font-size:50px;
+  
+}
